@@ -7,7 +7,7 @@
 ### Technology:
 
 - Next JS
-- Tailwind CSS
+- raw CSS
 - others npm packages(react-icons, framer-motion)
 
 ### Features:
