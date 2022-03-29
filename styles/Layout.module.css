@@ -1,0 +1,15 @@
+.wrapperFull {
+	width: 100%;
+	padding-left: 75px;
+	display: flex;
+}
+
+.sidebar {
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.mainCont {
+	width: 100%;
+}
